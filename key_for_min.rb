@@ -10,7 +10,7 @@ if value==value_of_array[0]
   
 }
 nil
-end
+#end
 
 end
 end

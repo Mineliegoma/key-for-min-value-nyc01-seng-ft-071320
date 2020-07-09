@@ -9,5 +9,6 @@ if value==value_of_array[0]
   return key
 
 end
+nil
 end
 end
